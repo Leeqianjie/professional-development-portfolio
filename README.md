@@ -10,7 +10,7 @@
 
 📍 Pontian, Johor, Malaysia 🇲🇾
 
-[![GitHub](https://img.shields.io/badge/GitHub-Visit_My_Profile-black?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Visit_My_Profile-black?style=for-the-badge&logo=github)]([https://github.com/your-username](https://github.com/settings/profile))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Me-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
 
