@@ -5,7 +5,6 @@
 
 ### Computer Science Student | Computer Networks & Security
 
-<!-- PROFILE PICTURE -->
 <img src="images/profile.jpg" width="180" height="180" style="border-radius: 50%;" alt="Lee Qian Jie Profile Picture">
 
 📍 Pontian, Johor, Malaysia 🇲🇾
