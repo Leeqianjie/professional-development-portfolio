@@ -78,7 +78,7 @@ Here are some of my projects and development experiences.
 
 Short description of your first project.
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/your-username/project-1)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Leeqianjie/A-visit-to-NALI-2026)
 
 ### 📌 Project 2
 
