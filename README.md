@@ -76,17 +76,25 @@ Here are some of my projects and development experiences.
 
 ### 📌 Project 1
 
-Short description of your first project.
+**🎓 NALI 2026 – Human-AI Synergy in Pedagogy**
+
+A collection of my experiences and learning from NALI 2026, featuring five educational ICT projects, their innovations and the role of AI in education.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Leeqianjie/A-visit-to-NALI-2026)
 
 ### 📌 Project 2
 
-Short description of your second project.
+**🎤 Industry Talk – From Developer to CEO**
+
+A summary of my industry talk assignment, including the webinar poster, key takeaways and personal reflections on technology and business.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Leeqianjie/Industry-Talk/blob/main/README.md)
 
-### 📌 Project 2
+### 📌 Project 3
+
+**🖥️ PC Assembly Lab**
+
+A collection of photos and experiences from my PC Assembly Lab, where I learned to disassemble and reassemble a desktop computer and test its functionality.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Leeqianjie/PC-Assemble-Lab)
 
