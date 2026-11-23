@@ -86,6 +86,10 @@ Short description of your second project.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Leeqianjie/Industry-Talk/blob/main/README.md)
 
+### 📌 Project 2
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Leeqianjie/PC-Assemble-Lab)
+
 </div>
 
 ---
